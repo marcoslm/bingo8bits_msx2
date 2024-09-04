@@ -2,7 +2,7 @@
 
 **Bingo 8 Bits** es un juego de bingo clásico desarrollado para **MSX2**, presentado originalmente en la **Pixels Retro Party 2018**. Este proyecto está diseñado para ejecutarse en hardware MSX2 o emuladores compatibles.
 
-[![Ver el video en YouTube](https://img.youtube.com/vi/ll12DfP2-BE/0.jpg)](https://youtu.be/ll12DfP2-BE)
+[![Demo del juego](https://img.youtube.com/vi/ll12DfP2-BE/0.jpg)](https://www.youtube.com/watch?v=ll12DfP2-BE)
 
 ## Características
 
