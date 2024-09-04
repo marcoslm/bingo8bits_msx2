@@ -6,19 +6,13 @@
 
 Haz click en la imagen para ver una demo en YouYube
 
-## Características
-
-- **Plataforma**: MSX2
-- **Librerías**: Fusion-C de Eric Boez (https://github.com/ericb59)
-- **Gráficos**: Modos SC5 y SC8
-- **Sonido**: AYFX
-- **Jugabilidad**: Juego clásico de bingo con animación del bombo y extracción de bolas.
+El programa está desarrollado en C utilizando las librerías de Fusion-C de Eric Boez (https://github.com/ericb59).
 
 ## Requisitos
 
 - **Hardware**: MSX2 o superior.
 - **Emulador recomendado**: OpenMSX o BlueMSX (para jugar en un PC).
-- **Fusion-C**: Necesario solo si deseas compilar el código fuente.
+- **Fusion-C SDK**: Necesario solo si deseas compilar el código fuente.
 
 ## Controles
 
