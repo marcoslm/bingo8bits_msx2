@@ -4,6 +4,8 @@
 
 [![Ver demo en YouTube](http://i.ytimg.com/vi/ll12DfP2-BE/hqdefault.jpg)](https://www.youtube.com/watch?v=ll12DfP2-BE)
 
+Haz click en la imagen para ver una demo en YouYube
+
 ## Características
 
 - **Plataforma**: MSX2
