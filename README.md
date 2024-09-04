@@ -9,7 +9,7 @@ Haz click en la imagen para ver una demo en YouYube
 ## Características
 
 - **Plataforma**: MSX2
-- **Librerías**: Fusion-C
+- **Librerías**: Fusion-C de Eric Boez (https://github.com/ericb59)
 - **Gráficos**: Modos SC5 y SC8
 - **Sonido**: AYFX
 - **Jugabilidad**: Juego clásico de bingo con animación del bombo y extracción de bolas.
